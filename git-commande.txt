@@ -1,0 +1,2 @@
+how to init a repository
+git init
