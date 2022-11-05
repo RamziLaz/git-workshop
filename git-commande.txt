@@ -1,2 +1,12 @@
 how to init a repository
 git init
+how to add 
+git add file2.txt
+
+how to commit
+git commit -m "first commit"
+
+how to commit all project
+git commit -am "second commit"
+git log 
+show history commit
